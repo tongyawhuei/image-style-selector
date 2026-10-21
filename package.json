@@ -1,0 +1,12 @@
+{
+  "name": "image-style-selector",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node verify.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  },
+  "license": "MIT"
+}
