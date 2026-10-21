@@ -57,4 +57,4 @@ npm test
 
 [30图公开核查](docs/30张公开核查.md) · [许可与素材](docs/许可与素材.md) · [贡献说明](CONTRIBUTING.md)
 
-Offline image-style selector with 30 AI-generated cinematic, realistic and 3D reference examples. Build with Python, then open the generated HTML directly. Code and bundled demo content are provided under MIT to the extent the licensor holds applicable rights. This local candidate has not been published.
+Offline image-style selector with 30 AI-generated cinematic, realistic and 3D reference examples. Build with Python, then open the generated HTML directly. Code and bundled demo content are provided under MIT to the extent the licensor holds applicable rights. Public bilingual edition v1.0.0.

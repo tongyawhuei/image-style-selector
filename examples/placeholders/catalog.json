@@ -1,0 +1,98 @@
+[
+  {
+    "id": 10,
+    "name": "功能演示1",
+    "title": "功能演示1 / demo 1",
+    "features": "程序占位图，用于验证选型功能",
+    "uses": "功能测试、演示",
+    "template": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。",
+    "original": "Demo placeholder 1.",
+    "source": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。\nDemo placeholder 1.",
+    "group": "功能演示",
+    "image": "images/demo-1.svg",
+    "en": {
+      "name": "Feature demo 1",
+      "title": "Feature demo 1",
+      "features": "Program-drawn placeholder for interaction checks",
+      "uses": [
+        "Feature testing",
+        "Demonstration"
+      ],
+      "template": "Create [subject]. Aspect ratio: [ratio]. Intended use: [purpose]. Negative space: [space]. Avoid: [avoid].",
+      "group": "Feature demos",
+      "source": "Demo placeholder 1."
+    }
+  },
+  {
+    "id": 20,
+    "name": "功能演示2",
+    "title": "功能演示2 / demo 2",
+    "features": "程序占位图，用于验证选型功能",
+    "uses": "功能测试、演示",
+    "template": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。",
+    "original": "Demo placeholder 2.",
+    "source": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。\nDemo placeholder 2.",
+    "group": "功能演示",
+    "image": "images/demo-2.svg",
+    "en": {
+      "name": "Feature demo 2",
+      "title": "Feature demo 2",
+      "features": "Program-drawn placeholder for interaction checks",
+      "uses": [
+        "Feature testing",
+        "Demonstration"
+      ],
+      "template": "Create [subject]. Aspect ratio: [ratio]. Intended use: [purpose]. Negative space: [space]. Avoid: [avoid].",
+      "group": "Feature demos",
+      "source": "Demo placeholder 2."
+    }
+  },
+  {
+    "id": 30,
+    "name": "功能演示3",
+    "title": "功能演示3 / demo 3",
+    "features": "程序占位图，用于验证选型功能",
+    "uses": "功能测试、演示",
+    "template": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。",
+    "original": "Demo placeholder 3.",
+    "source": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。\nDemo placeholder 3.",
+    "group": "交互测试",
+    "image": "images/demo-3.svg",
+    "en": {
+      "name": "Feature demo 3",
+      "title": "Feature demo 3",
+      "features": "Program-drawn placeholder for interaction checks",
+      "uses": [
+        "Feature testing",
+        "Demonstration"
+      ],
+      "template": "Create [subject]. Aspect ratio: [ratio]. Intended use: [purpose]. Negative space: [space]. Avoid: [avoid].",
+      "group": "Interaction tests",
+      "source": "Demo placeholder 3."
+    }
+  },
+  {
+    "id": 40,
+    "name": "功能演示4",
+    "title": "功能演示4 / demo 4",
+    "features": "程序占位图，用于验证选型功能",
+    "uses": "功能测试、演示",
+    "template": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。",
+    "original": "Demo placeholder 4.",
+    "source": "请画[主体]，画幅[比例]，用途[用途]，留白[要求]，避免[元素]。\nDemo placeholder 4.",
+    "group": "交互测试",
+    "image": "images/demo-4.svg",
+    "en": {
+      "name": "Feature demo 4",
+      "title": "Feature demo 4",
+      "features": "Program-drawn placeholder for interaction checks",
+      "uses": [
+        "Feature testing",
+        "Demonstration"
+      ],
+      "template": "Create [subject]. Aspect ratio: [ratio]. Intended use: [purpose]. Negative space: [space]. Avoid: [avoid].",
+      "group": "Interaction tests",
+      "source": "Demo placeholder 4."
+    }
+  }
+]
